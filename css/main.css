@@ -1832,10 +1832,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     bottom: 0;
 }
 .banner-area {
-    /*background: url(../img/) center;*/
-    background-color: rgba(120,230,89,0.9);
-
-
+    background: url(../img/) center;
     background-size: cover;
 }
 @media (max-width: 767.98px) {
@@ -2026,7 +2023,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-color: rgba(0, 0, 0, 0.7);
 }
 .single-service {
-    padding: 10px;
+    padding: 30px;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
