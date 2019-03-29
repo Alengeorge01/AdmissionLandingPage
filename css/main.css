@@ -2023,7 +2023,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-color: rgba(0, 0, 0, 0.7);
 }
 .single-service {
-    padding: 30px;
+    padding: 10px;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
