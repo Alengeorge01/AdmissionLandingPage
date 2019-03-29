@@ -1807,7 +1807,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #fff;
 }
 .primary-btn:hover span {
-    color: #fff;
+    color: #000;
     right: 20px;
 }
 .primary-btn.white {
@@ -1888,7 +1888,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .header-btn:hover {
     border: 1px solid #222;
-    background: transparent;
+    background: #fff;
     color: #222;
 }
 .single-feature h4 {
