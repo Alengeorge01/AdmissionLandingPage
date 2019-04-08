@@ -1842,7 +1842,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     bottom: 0;
 }
 .banner-area {
-    background: url(../img/back1.JPG) center;
+    background: url() center;
     background-size: cover;
     background-attachment: fixed;
     
@@ -2341,7 +2341,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     	padding-top: 0px;
     }
     .mt-40{
-    	padding-top: 20vh;
+    	padding-top: 4vh;
     }
 }
 
