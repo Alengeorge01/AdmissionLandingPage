@@ -365,6 +365,35 @@
 
 			<!-- Start brand Area -->
 			<br>
+			<section class="facts-area pb-60">
+				<div class="container">
+					<center>
+						<div class="row">
+						<div class="col single-fact">
+							<h2><i class="fa fa-gift" aria-hidden="true"></i></h2>
+							<h1 class="c1 counter">846</h1>
+							<h3>Offers</h3>
+						</div>
+						<div class="col single-fact">
+							<h2><i class="fa fa-graduation-cap" aria-hidden="true"></i></h2>
+							<h1 class="c1 counter">741</h1>
+							<h3>Placements</h3>
+						</div>
+						<div class="col single-fact">
+							<h2><i class="fa fa-users" aria-hidden="true"></i></h2>
+							<h1 class="c1 counter">75</h1>
+							<h3>Double Offers</h3>
+						</div>
+						
+						<div class="col single-fact">
+							<h2><i class="fa fa-inr" aria-hidden="true"></i></h2>
+							<h1 class="c1 counter" style="display: inline-block;">25</h1><h1 style="display: inline-block;">Lakhs</h1>
+							<h3>Package</h3>
+						</div>	
+					</center>												
+					</div>
+				</div>	
+			</section>
 			<section class="brand-area">
 				<div class="container">
 					<div class="title text-center">
