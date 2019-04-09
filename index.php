@@ -173,6 +173,8 @@
 					</div>
 				</div>	
 			</section>
+		
+
 			<!-- End info Area -->
 		<!-- 	<option selected="selected">Courses</option>
 												<option value="1">B.Tech Aerospace Engineering</option>
@@ -610,19 +612,19 @@
 						<div class="row">
 						<div class="col single-fact">
 							<h2><i class="fa fa-gift" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter">846</h1>
+							<h1 class="c1 counter" style="display: inline-block;">846</h1><h1 style="display: inline-block;">+</h1>
 							<h3>Offers</h3>
 						</div>
 						<div class="col single-fact">
 							<h2><i class="fa fa-graduation-cap" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter">741</h1>
+							<h1 class="c1 counter" style="display: inline-block;">741</h1><h1 style="display: inline-block;">+</h1>
 							<h3>Placements</h3>
 						</div>
 						<div class="col single-fact">
 							<h2><i class="fa fa-users" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter">75</h1>
-							<h3>Double Offers</h3>
-						</div>
+							<h1 class="c1 counter" style="display: inline-block;">400</h1><h1 style="display: inline-block;">+</h1>
+							<h3>Faculties</h3>
+						</div>	
 						
 						<div class="col single-fact">
 							<h2><i class="fa fa-inr" aria-hidden="true"></i></h2>
@@ -738,6 +740,7 @@
 			
 			</section>
 			<!-- End brand Area -->	
+
 		
 			<!-- start footer Area -->		
 			<footer class="footer-area pb-40" style="color: #007bff;">
@@ -757,6 +760,10 @@
 				</div>
 			</footer>	
 			<!-- End footer Area -->
+			<!-- Start of LiveChat (www.livechatinc.com) code -->
+
+
+<!-- End of LiveChat code -->
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
