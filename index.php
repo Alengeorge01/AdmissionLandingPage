@@ -91,7 +91,7 @@
 					</div>
 				</div>
 			</section>
-			<a href="http://www.karunya.edu/virtualtour" style="position: fixed; top: 85vh; left: 92vw; z-index: 1;"><img class="img-fluid" src="img/virt.png" alt="" height="80px" width="80px"></a>
+			<a href="http://www.karunya.edu/virtualtour" style="position: fixed; top: 85vh; left: 90vw; z-index: 1;"><img class="img-fluid" src="img/virt.png" alt="" height="70vh" width="70vw"></a>
 			
 			<!-- Start feature Area --> 
 			<section class="feature-area pb-10" id="feature" style="background: -webkit-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -moz-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -ms-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%);">
@@ -481,6 +481,21 @@
 			<footer class="footer-area pb-40" style="color: #007bff;">
 				<div class="container">
 					<div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
+
+						<ul class="list list-icons">
+							<h4 style="color: #fff;">Contact Us :</h4>&nbsp;&nbsp;&nbsp;&nbsp;
+                                       <i class="fa fa-phone"></i>+91 4222614300&nbsp;&nbsp;
+                                       <i class="fa fa-phone"></i>+91 4222363636&nbsp;&nbsp;
+                                       <i class="fa fa-phone"></i>1800 425 4300 (Toll Free)&nbsp;&nbsp;
+                                       <i class="fa fa-fax"></i> +91 422 2615615&nbsp;&nbsp;
+                                       <i class="fa fa-envelope"></i> <a href="mailto:info@karunya.edu">info@karunya.edu</a>&nbsp;&nbsp;<br><br>
+                                       <h4 style="color: #fff;">Address:</h4>&nbsp;&nbsp;&nbsp;&nbsp;
+                                       </i> Karunya Institute of Technology and Sciences,
+                                    (Deemed to be University),
+                                   Karunya Nagar,
+                                   Coimbatore - 641 114,
+                                   Tamil Nadu, India 	<br><br>	
+                                    </ul>
 						
             <p class="footer-text m-0" style="color: #fff;"><a href="privacy.html" target="_blank" class="mr-15">Privacy Policy</a>Copyright &copy;<script>document.write(new Date().getFullYear());</script> . Karunya Institute of Technology and Sciences. All Rights Reserved.</p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
