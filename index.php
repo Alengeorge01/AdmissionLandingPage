@@ -357,8 +357,8 @@
 						</div>
 						<div class="col single-fact">
 							<h2><i class="fa fa-users" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter" style="display: inline-block;">400</h1><h1 style="display: inline-block;">+</h1>
-							<h3>Faculties</h3>
+							<h1 class="c1 counter" style="display: inline-block;">75</h1><h1 style="display: inline-block;">+</h1>
+							<h3>Double Offers</h3>
 						</div>	
 						
 						<div class="col single-fact">
