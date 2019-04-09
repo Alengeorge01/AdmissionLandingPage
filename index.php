@@ -91,6 +91,7 @@
 					</div>
 				</div>
 			</section>
+			<a href="http://www.karunya.edu/virtualtour" style="position: fixed; top: 85vh; left: 92vw; z-index: 1;"><img class="img-fluid" src="img/virt.png" alt="" height="80px" width="80px"></a>
 			
 			<!-- Start feature Area --> 
 			<section class="feature-area pb-10" id="feature" style="background: -webkit-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -moz-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -ms-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%);">
@@ -100,7 +101,7 @@
 					<center><div class="row">
 						<div class="single-feature col-lg-3 col-xs-1 ani1 animated " >
 						 	<img class="img-fluid" src="img/college.png" alt="">
-							<h4>Best Deemed to be University <br> in Tamil Nadu</h4>
+							<h4>One of the Best Deemed to be University <br> in Tamil Nadu</h4>
 						</div>
 						<div class="single-feature col-lg-2 col-xs-1 ani1 animated ">
 							<img class="img-fluid" src="img/goal.png" alt="">
@@ -108,7 +109,7 @@
 						</div>
 						<div class="single-feature col-lg-2 col-xs-1 ani2 animated ">
 							<img class="img-fluid" src="img/2019.png" alt="">
-							<h4>Top Ranked Institution in India</h4>
+							<h4>Ranked among top 100 Institutions in India</h4>
 						</div>		
 						<div class="single-feature col-lg-3 col-xs-1 ani3 animated ">
 							<img class="img-fluid" src="img/tree.png" alt="">
@@ -162,7 +163,7 @@
 						</div>
 						<div class="single-feature col-lg-3 col-xs-1 ani1 animated">
 							<img class="" src="img/naac.png" height="75px" width="75px" alt="">
-							<h4><br>NAAC Accreditted</h4>
+							<h4>NAAC<br> Accreditted</h4>
 						</div>
 						<div class="single-feature col-lg-3 col-xs-1 ani2 animated">
 							<img class="img-fluid" src="img/rank1.png" alt="">
@@ -356,8 +357,8 @@
 						</div>
 						<div class="col single-fact">
 							<h2><i class="fa fa-users" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter" style="display: inline-block;">75</h1><h1 style="display: inline-block;">+</h1>
-							<h3>Double Offers</h3>
+							<h1 class="c1 counter" style="display: inline-block;">400</h1><h1 style="display: inline-block;">+</h1>
+							<h3>Faculties</h3>
 						</div>	
 						
 						<div class="col single-fact">
@@ -607,18 +608,17 @@
 			 document.body.appendChild(s);
 			</script>
 			<script type="text/javascript">
-								window.__lc = window.__lc || {};
-								window.__lc.license = 9650825;
-								(function() {
-								  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-								  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-								  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-								})();
-								</script>
-								<noscript>
-								<a href="https://www.livechatinc.com/chat-with/9650825/" rel="nofollow">Chat with us</a>,
-								powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-								</noscript>
+			window.__lc = window.__lc || {};
+			window.__lc.license = 9650825;
+			(function() {
+			var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+			lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+			})();
+			</script>
+			<noscript>
+			<a href="https://www.livechatinc.com/chat-with/9650825/" rel="nofollow">Chat with us</a>,powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+			</noscript>
 											
 		</body>
 	</html>
