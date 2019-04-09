@@ -74,13 +74,12 @@
 						<div class="banner-content col-lg-6 col-md-12 mt-30">
 							<h4 style="color: #fff;" class="text-uppercase anim1 animated slideInLeft ">ADMISSIONS OPEN - 2019	</h4>
 							<h1 style="color: #fff;" class="anim2 animated slideInRight ">
-								B. TECH. ENGINEERING 
+							ENGINEERING PROGRAMMES
 							</h1>
 							<p style="color: #fff;">
 								Karunya Institute of Technology and Sciences is a nationally ranked, fully residential, private christian university in India. If you can picture yourself exploring the field of your interest, excelling in academics motivated by great teachers, growing spiritually guided by caring mentors and becoming a wholesome personality to bring a change in the world and to lead, Karunya is the right place for you!.
 							</p>
-							<!-- <a href="#" class="primary-btn header-btn text-uppercase animated fadeInUpBig">Apply Now<span class="lnr lnr-arrow-right arr"></span></a> -->
-
+							<a href="http://www.karunya.edu" class="primary-btn header-btn text-uppercase anim3 animated fadeInUpBig">Learn More<span class="lnr lnr-arrow-right arr"></span></a>
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<center><h4 style="color: #fff;" class="mb-10 mt-30">Need help with Admissions?</h4>
@@ -139,19 +138,42 @@
 						</div>
 						<div class="col single-fact">
 							<h2><i class="fa fa-graduation-cap" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter">8434</h1>
+							<h1 class="c1 counter">8111</h1>
 							<h3>Students</h3>
 						</div>
 						<div class="col single-fact">
 							<h2><i class="fa fa-users" aria-hidden="true"></i></h2>
-							<h1 class="c1 counter" style="display: inline-block;">400</h1><h1 style="display: inline-block;">+</h1>
+							<h1 class="c1 counter" style="display: inline-block;">455</h1><h1 style="display: inline-block;">+</h1>
 							<h3>Faculties</h3>
 						</div>	
 					</center>												
 					</div>
 				</div>	
 			</section>
+			<section class="feature-area pb-10" id="feature" style="background: -webkit-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -moz-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -ms-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%);">
+				<div class="container">
+						<center><h1 class="text-uppercase mb-30 mt-40">RANKING & ACCREDITATION</h1></center><br>
 
+					<center><div class="row">
+						<div class="single-feature col-lg-3 col-xs-1 ani1 animated" >
+						 	<img class="" src="img/aicte.png" height="90px" width="124px"  alt="">
+							<h4>AICTE & UGC <br> Approved</h4>
+						</div>
+						<div class="single-feature col-lg-3 col-xs-1 ani1 animated">
+							<img class="" src="img/naac.png" height="75px" width="75px" alt="">
+							<h4><br>NAAC Accreditted</h4>
+						</div>
+						<div class="single-feature col-lg-3 col-xs-1 ani2 animated">
+							<img class="img-fluid" src="img/rank1.png" alt="">
+							<h4>72 <br> Engineering Rank <br> NIRF</h4>
+						</div>		
+						<div class="single-feature col-lg-3 col-xs-1 ani3 animated">
+							<img class="img-fluid" src="img/rank2.png" alt="">
+							<h4>92 <br> University Rank <br> NIRF</h4>
+						</div>												
+					</div></center>
+				</div>	
+			</section>
 			<!-- end fact Area -->
 			<!-- Start info Area -->
 			<section class="info-area" id="about">
@@ -160,48 +182,24 @@
 						<div class="col-lg-6 col-md-12 info-left no-padding">
 							<center><img class="img-fluid " src="img/collage.png" width="70%" alt=""></center>
 						</div>
-						<div class="col-lg-6 col-md-12 info-right">
-							<h1>Life<br>
-							At Karunya</h1>
-							<p>
-								With students hailing from nearly 22 states of our motherland, as well as international students and interns from different parts of the world, Karunya is as diverse as it gets. Karunya provides a platform for these students to come together to learn and grow. When people with such varied thinking come together, the potential for innovation never is enormous.
-								<br><br> From working on projects together to dining together, students in our residential University live together as one big family. It’s not only International students who come and stay with us, our students too are given the opportunity to go and study and intern at renowned Universities in various locations around the world as a part of the IAESTE programme.
-								<br><br>So, socialize, pick up a new language, understand different cultures, learn together, innovate together – you do not want to miss this!
-							</p>
-							<button class="primary-btn mt-20 mb-20 text-uppercase"><a href="http://www.karunya.edu">Learn More<span class="lnr lnr-arrow-right"></a></button>
-						</div>						
+						<div class="col-lg-6 about-right no-padding relative">
+							<div class="overlay overlay-bg"></div>
+							<a href="http://www.youtube.com/watch?v=9kekWeK0Zt0" class="play-btn">	<img class="play" src="img/play-btn.png" alt="">
+							</a>	
+							<img class="main img-fluid" src="img/back4.jpg" alt="">
+						</div>
 					</div>
 				</div>	
 			</section>
-<<<<<<< HEAD
-		
 
-=======
->>>>>>> parent of e69e34f... changes
-			<!-- End info Area -->
-		<!-- 	<option selected="selected">Courses</option>
-												<option value="1">B.Tech Aerospace Engineering</option>
-												<option value="1">B.Tech Agricultural Engineering</option>
-												<option value="1">B.Tech Biotechnology</option>
-												<option value="1">B.Tech Biomedical Engineering</option>
-												<option value="1">B.Tech Civil Engineering</option>
-												<option value="1">B.Tech Computer Science & Engineering</option>
-												<option value="1">B.Tech Electrical & Electronics Engineering</option>
-												<option value="1">B.Tech Electronics & Communication Engineering</option>
-												<option value="1">B.Tech Electronics & Media Technology</option>
-												<option value="1">B.Tech Robotics & Automation</option>
-												<option value="1">B.Tech Food Processing & Engineering</option>
-												<option value="1">B.Tech Mechanical Engineering</option>
-												<option value="1">B.Tech Mechatronics</option>		 -->
-			<!-- Start service Area -->
 			<section class="service-area pb-40 relative">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-8 pb-40 mt-50 header-text">
-							<h1>B. Tech. Programmes</h1>
+							<h1>Engineering Programmes</h1>
 							<p>
-								We offer a variety of courses.
+								We offer a variety of programmes.
 							</p>
 						</div>
 					</div>
@@ -340,373 +338,6 @@
 				</div>	
 			</section>
 			<!-- End service Area -->
-
-
-			<!-- Start testimonial Area -->
-			<section class="testimonial-area relative pb-20">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-8 mt-50">
-							<div class="title text-center">
-								<h1 class="mb-10 text-white">Hall of Fame</h1>
-								<h3 class="text-white">Alumni</h3>
-							</div>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="active-testimonial">
-							<div class="single-testimonial item d-flex flex-row">
-								<div class="thumb">
-									<!-- <img class="img-fluid" src="img/zech.jpg" alt=""> -->
-								</div>
-								<div class="desc">
-									<p>
-										" Life is filled with lot of journeys. Sometimes we forget our journeys which were very boring, but till the end of our life we carry some memorable journeys or events. My best journey in my life started from Karunya. "
-									</p>
-									<h4 mt-30>Zechariah Abel</h4>
-									<p>Technical Lead at HCL Technologies Ltd,Chennai.</p>
-								</div>
-							</div>
-							<div class="single-testimonial item d-flex flex-row">
-								<div class="thumb">
-									<!-- <img class="img-fluid" src="img/josh.jpg" alt=""> -->
-								</div>
-								<div class="desc">
-									<p>
-										When I joined Karunya, I was not a good speaker. But today I am able to speak to the top officials of many Multinational Companies, conduct personal interviews and serve as a visiting faculty in many Management Institutions.
-									</p>
-									<h4 mt-30>Joshua Madan</h4>
-									<p>CEO-Covenant Group</p>
-								</div>
-							</div>	
-							<div class="single-testimonial item d-flex flex-row">
-								<div class="thumb">
-									<!-- <img class="img-fluid" src="img/sam.jpg" alt=""> -->
-								</div>
-								<div class="desc">
-									<p>
-										Karunya gave me opportunities to harness and develop the Leadership potential within me. It was in Karunya that my talents were further molded, sharpened, harnessed and matured. 
-									</p>
-									<h4 mt-30>Sam Rufus Nallaraj</h4>
-									<p>CEO , GluePlus Innotech India Pvt. Ltd.</p>
-								</div>
-							</div>	
-							<div class="single-testimonial item d-flex flex-row">
-								<div class="thumb">
-									<!-- <img class="img-fluid image" src="img/dan.jpg" alt=""> -->
-								</div>
-								<div class="desc">
-									<p>
-										Karunya has friendly, approachable professors who helped me learn every day and grow as a professional. I was growing strong day by day in the Lord and got various opportunities to participate in different spiritual activities which molded me as a better person.
-									</p>
-									<h4 mt-30>Daniel Jacob</h4>
-									<p>General Manger-HR, EC Group</p>
-								</div>
-							</div>									
-						</div>					
-					</div>
-				</div>	
-			</section>
-			<!-- End testimonial Area -->
-
-			<!-- Start offered Area -->
-			<!-- <section class="offered-area" id="weoffer">
-				<div class="container">
-					<div class="menu-content pb-60 col-lg-8">
-						<div class="title text-center">
-							<h1 class="mb-10 text-white">Our Offered Services</h1>
-							<p class="text-white">Who are in extremely love with eco friendly system.</p>
-						</div>
-					</div>					
-					<div class="row align-items-center justify-content-start">
-						<div class="col-lg-6 offered-left">
-							<div class="offer-wrap flex-row d-flex row">
-								<div class="col-4">
-									<div class="single-offer mb-30">
-										<a href="#"></a><img class="img-fluid" src="img/o1.png" alt=""></d>
-									</div> 
-								</div>
-								<div class="col-4">
-									<div class="single-offer mb-30">
-										<a href="#"></a><img class="img-fluid" src="img/o2.png" alt=""></d>
-									</div> 
-								</div>
-								<div class="col-4">
-									<div class="single-offer mb-30">
-										<a href="#"></a><img class="img-fluid" src="img/o3.png" alt=""></d>
-									</div> 
-								</div>
-								<div class="col-4">
-									<div class="single-offer">
-										<a href="#"></a><img class="img-fluid" src="img/o4.png" alt=""></d>
-									</div> 
-								</div>
-								<div class="col-4">
-									<div class="single-offer">
-										<a href="#"></a><img class="img-fluid" src="img/o5.png" alt=""></d>
-									</div> 
-								</div>
-								<div class="col-4">
-									<div class="single-offer">
-										<a href="#"></a><img class="img-fluid" src="img/o6.png" alt=""></d>
-									</div> 
-								</div>								
-							</div>																	
-						</div> -->
-					<!-- 	<div class="col-lg-5 offered-right">
-							<h4>Content Synchronization</h4>
-							<p class="pt-20 pb-20">
-								Few would argue that, despite the advancements off eminism over the past three decades, women still face a double standard when it comes to their behavior. While men’s borderline-inappropriate behavior.
-							</p>
-							<a href="#" class="primary-btn header-btn text-uppercase">View Details</a>
-						</div>
-					</div>
-				</div>	
-			</section> -->
-			<!-- End offered Area -->
-			
-<<<<<<< HEAD
-
-			<!-- Start fact Area -->
-			<!-- <section class="facts-area section-gap">
-				<div class="container">
-					<div class="row">
-						<div class="col single-fact">
-							<h1 class="counter">2536</h1>
-							<p>Projects Completed</p>
-						</div>
-						<div class="col single-fact">
-							<h1 class="counter">6784</h1>
-							<p>Really Happy Clients</p>
-						</div>
-						<div class="col single-fact">
-							<h1 class="counter">1059</h1>
-							<p>Total Tasks Completed</p>
-						</div>
-						<div class="col single-fact">
-							<h1 class="counter">2239</h1>
-							<p>Cups of Coffee Taken</p>
-						</div>	
-						<div class="col single-fact">
-							<h1 class="counter">435</h1>
-							<p>In House Professionals</p>
-						</div>												
-					</div>
-				</div>	
-			</section> -->
-			<!-- end fact Area -->
-
-			<!-- Start service Area -->
-			<!-- <section class="service-area section-gap relative">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="col-md-8 pb-40 header-text">
-							<h1>Some Awesomeness that should share</h1>
-							<p>
-								Who are in extremely love with eco friendly system.
-							</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-user"></span>Expert Technicians</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-license"></span>Professional Service</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>								
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-phone"></span>Great Support</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>								
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-rocket"></span>Technical Skills</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>				
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-diamond"></span>Highly Recomended</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>								
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-bubble"></span>Positive Reviews</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>									
-							</div>
-						</div>						
-					</div>
-				</div>	
-			</section> -->
-			<!-- End service Area -->
-
-=======
-
-			<!-- Start fact Area -->
-			<!-- <section class="facts-area section-gap">
-				<div class="container">
-					<div class="row">
-						<div class="col single-fact">
-							<h1 class="counter">2536</h1>
-							<p>Projects Completed</p>
-						</div>
-						<div class="col single-fact">
-							<h1 class="counter">6784</h1>
-							<p>Really Happy Clients</p>
-						</div>
-						<div class="col single-fact">
-							<h1 class="counter">1059</h1>
-							<p>Total Tasks Completed</p>
-						</div>
-						<div class="col single-fact">
-							<h1 class="counter">2239</h1>
-							<p>Cups of Coffee Taken</p>
-						</div>	
-						<div class="col single-fact">
-							<h1 class="counter">435</h1>
-							<p>In House Professionals</p>
-						</div>												
-					</div>
-				</div>	
-			</section> -->
-			<!-- end fact Area -->
-
-			<!-- Start service Area -->
-			<!-- <section class="service-area section-gap relative">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="col-md-8 pb-40 header-text">
-							<h1>Some Awesomeness that should share</h1>
-							<p>
-								Who are in extremely love with eco friendly system.
-							</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-user"></span>Expert Technicians</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-license"></span>Professional Service</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>								
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-phone"></span>Great Support</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>								
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-rocket"></span>Technical Skills</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>				
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-diamond"></span>Highly Recomended</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>								
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-service">
-								<h4><span class="lnr lnr-bubble"></span>Positive Reviews</h4>
-								<p>
-									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-								</p>									
-							</div>
-						</div>						
-					</div>
-				</div>	
-			</section> -->
-			<!-- End service Area -->
-
->>>>>>> parent of e69e34f... changes
-			<!-- Start info Area -->
-			<!-- <section class="info-area" id="about">
-				<div class="container-fluid">
-					<div class="row d-flex justify-content-end align-items-center">
-						<div class="col-lg-6 col-md-12 info-left no-padding">
-							<img class="img-fluid" src="img/info-img.jpg" alt="">
-						</div>
-						<div class="col-lg-6 col-md-12 info-right no-padding">
-							<h1>Responsible <br>
-							Customer Support</h1>
-							<p>
-								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-							</p>
-							<button class="primary-btn mt-20 text-uppercase">Learn More<span class="lnr lnr-arrow-right"></button>
-						</div>						
-					</div>
-				</div>	
-			</section> -->
-			<!-- End info Area -->			
-			
-			<!-- Start about Area -->
-			<section class="about-area">
-				<div class="container-fluid">
-					<div class="row no-padding justify-content-center d-flex align-items-center">
-						<div class="col-lg-6 about-right mt-30">
-							<h1>
-								About Us
-							</h1>
-							<p class="mt-30">
-								In the three decades of service to higher education, Karunya Institute of Technology and Sciences has made significant progression in teaching learning, research and consultancy, innovation and transfer of technology, community service and value education. Translating the vision of the Founders into action, the institution is currently engaged in finding solutions to human problems in the four major areas such as Water, Food, Healthcare, and Energy through scientific and technological interventions.
-							</p>
-							<a href="http://www.karunya.edu/about-us"><button class="primary-btn mt-20 text-uppercase">See Details<span class="lnr lnr-arrow-right"></button></a>
-
-						</div>
-						<div class="col-lg-6 about-right no-padding relative">
-							<div class="overlay overlay-bg"></div>
-							<a href="http://www.youtube.com/watch?v=9kekWeK0Zt0" class="play-btn">	<img class="play" src="img/play-btn.png" alt="">
-							</a>	
-							<img class="main img-fluid" src="img/back4.jpg" alt="">
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End about Area -->		
-
-			<!-- Start brand Area -->
 			<br>
 			<section class="facts-area pb-60">
 				<div class="container">
@@ -861,11 +492,7 @@
 					</div>
 				</div>
 			</footer>	
-			<!-- End footer Area -->
-			<!-- Start of LiveChat (www.livechatinc.com) code -->
 
-
-<!-- End of LiveChat code -->
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
