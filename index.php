@@ -80,6 +80,7 @@
 								Karunya Institute of Technology and Sciences is a nationally ranked, fully residential, private christian university in India. If you can picture yourself exploring the field of your interest, excelling in academics motivated by great teachers, growing spiritually guided by caring mentors and becoming a wholesome personality to bring a change in the world and to lead, Karunya is the right place for you!.
 							</p>
 							<a href="http://www.karunya.edu" class="primary-btn header-btn text-uppercase anim3 animated fadeInUpBig">Learn More<span class="lnr lnr-arrow-right arr"></span></a>
+
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<center><h4 style="color: #fff;" class="mb-10 mt-30">Need help with Admissions?</h4>
@@ -605,7 +606,20 @@
 			 s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js"; 
 			 document.body.appendChild(s);
 			</script>
-			
+			<script type="text/javascript">
+								window.__lc = window.__lc || {};
+								window.__lc.license = 9650825;
+								(function() {
+								  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+								  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+								  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+								})();
+								</script>
+								<noscript>
+								<a href="https://www.livechatinc.com/chat-with/9650825/" rel="nofollow">Chat with us</a>,
+								powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+								</noscript>
+											
 		</body>
 	</html>
 
