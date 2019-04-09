@@ -31,8 +31,6 @@
 			<link rel="stylesheet" href="css/animate.min.css">
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
-			
-
 		</head>
 		<body>
 
@@ -51,15 +49,15 @@
 				<div class="slideshow-container" style="position: absolute;">
 
 					<div class="mySlides fade">
-					  <img src="img/back4.jpg" style="width:100%; height: 103vh;">
+					  <img src="img/back4.jpg" style="width:100%; height: 103vh; background-attachment: fixed;">
 					</div>
 
 					<div class="mySlides fade">
-					  <img src="img/back1.jpg" style="width:100%; height: 103vh;">
+					  <img src="img/back1.jpg" style="width:100%; height: 103vh; background-attachment: fixed;">
 					</div>
 
 					<div class="mySlides fade">
-					  <img src="img/back2.jpg" style="width:100%; height: 103vh;">
+					  <img src="img/back2.jpg" style="width:100%; height: 103vh; background-attachment: fixed;">
 					</div>
 
 					</div>
@@ -85,48 +83,10 @@
 
 						</div>
 						<div class="col-lg-6 col-md-12">
-								<h4 style="color: #fff;" class="mb-10 mt-30">Need help with Admissions?</h4>
-									<h5 style="color: #fff;">Give your details now & Get our call shortly</h5>
-								<form action="#">
-									<div class="input-group-icon mt-10">
-										<div class="icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-										<input type="text" name="full_name" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required class="single-input">
-									</div>
-									<div class="input-group-icon mt-10">
-										<div class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></div>
-										<input type="email" name="EMAIL" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required class="single-input">
-									</div>
-									<div class="input-group-icon mt-10">
-										<div class="icon"><i class="fa fa-address-book" aria-hidden="true"></i></div>
-										<input type="mobile" name="Contact" placeholder="Contact Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contact Number'" pattern="[0-9]{10}" required class="single-input">
-									</div>
-									<div class="input-group-icon mt-10">
-										<div class="icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
-										<div class="form-select" id="default-select">
-											<select>
-												<option selected="selected">Courses</option>
-												<option value="1">B.Tech Aerospace Engineering</option>
-												<option value="1">B.Tech Agricultural Engineering</option>
-												<option value="1">B.Tech Biotechnology</option>
-												<option value="1">B.Tech Biomedical Engineering</option>
-												<option value="1">B.Tech Civil Engineering</option>
-												<option value="1">B.Tech Computer Science & Engineering</option>
-												<option value="1">B.Tech Electrical & Electronics Engineering</option>
-												<option value="1">B.Tech Electronics & Communication Engineering</option>
-												<option value="1">B.Tech Electronics & Media Technology</option>
-												<option value="1">B.Tech Robotics & Automation</option>
-												<option value="1">B.Tech Food Processing & Engineering</option>
-												<option value="1">B.Tech Mechanical Engineering</option>
-												<option value="1">B.Tech Mechatronics</option>			
-											</select>
-										</div>
-									</div>
-
-									<div class="mt-30">
-										<button class="primary-btn header-btn text-uppercase anim3 animated fadeInUpBig">Apply Now<span class="lnr lnr-arrow-right arr"></span></button>
-									</div>
-
-								</form>
+							<center><h4 style="color: #fff;" class="mb-10 mt-30">Need help with Admissions?</h4>
+							<h5 style="color: #fff;">Give your details now & Get our call shortly</h5></center>
+							<div class="npf_wgts anim2 animated slideInRight" data-height="430px" data-w="8797f06b38e8b3dbe2e8cb9cacb4bdbc" style="z-index: 1; background-color: transparent;">
+							</div>
 							</div>												
 					</div>
 				</div>
@@ -874,7 +834,12 @@
 				  dots[slideIndex-1].className += " active";
 				  setTimeout(showSlides, 5000); // Change image every 2 seconds
 				}
-			</script>	
+			</script>
+			<script type="text/javascript"> var npf_d='https://Karunya.nopaperforms.com'; var npf_c='337'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/tracker.js"; document.body.appendChild(s); </script>	
+			<script type="text/javascript">var s=document.createElement("script"); 
+			 s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js"; 
+			 document.body.appendChild(s);
+			</script>
 			
 		</body>
 	</html>
