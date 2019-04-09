@@ -173,8 +173,11 @@
 					</div>
 				</div>	
 			</section>
+<<<<<<< HEAD
 		
 
+=======
+>>>>>>> parent of e69e34f... changes
 			<!-- End info Area -->
 		<!-- 	<option selected="selected">Courses</option>
 												<option value="1">B.Tech Aerospace Engineering</option>
@@ -463,6 +466,7 @@
 			</section> -->
 			<!-- End offered Area -->
 			
+<<<<<<< HEAD
 
 			<!-- Start fact Area -->
 			<!-- <section class="facts-area section-gap">
@@ -559,6 +563,104 @@
 			</section> -->
 			<!-- End service Area -->
 
+=======
+
+			<!-- Start fact Area -->
+			<!-- <section class="facts-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col single-fact">
+							<h1 class="counter">2536</h1>
+							<p>Projects Completed</p>
+						</div>
+						<div class="col single-fact">
+							<h1 class="counter">6784</h1>
+							<p>Really Happy Clients</p>
+						</div>
+						<div class="col single-fact">
+							<h1 class="counter">1059</h1>
+							<p>Total Tasks Completed</p>
+						</div>
+						<div class="col single-fact">
+							<h1 class="counter">2239</h1>
+							<p>Cups of Coffee Taken</p>
+						</div>	
+						<div class="col single-fact">
+							<h1 class="counter">435</h1>
+							<p>In House Professionals</p>
+						</div>												
+					</div>
+				</div>	
+			</section> -->
+			<!-- end fact Area -->
+
+			<!-- Start service Area -->
+			<!-- <section class="service-area section-gap relative">
+				<div class="overlay overlay-bg"></div>
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="col-md-8 pb-40 header-text">
+							<h1>Some Awesomeness that should share</h1>
+							<p>
+								Who are in extremely love with eco friendly system.
+							</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-4 col-md-6">
+							<div class="single-service">
+								<h4><span class="lnr lnr-user"></span>Expert Technicians</h4>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-service">
+								<h4><span class="lnr lnr-license"></span>Professional Service</h4>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-service">
+								<h4><span class="lnr lnr-phone"></span>Great Support</h4>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-service">
+								<h4><span class="lnr lnr-rocket"></span>Technical Skills</h4>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+								</p>				
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-service">
+								<h4><span class="lnr lnr-diamond"></span>Highly Recomended</h4>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-service">
+								<h4><span class="lnr lnr-bubble"></span>Positive Reviews</h4>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+								</p>									
+							</div>
+						</div>						
+					</div>
+				</div>	
+			</section> -->
+			<!-- End service Area -->
+
+>>>>>>> parent of e69e34f... changes
 			<!-- Start info Area -->
 			<!-- <section class="info-area" id="about">
 				<div class="container-fluid">
