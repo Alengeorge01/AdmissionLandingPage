@@ -91,6 +91,7 @@
 					</div>
 				</div>
 			</section>
+			<a href="http://www.karunya.edu/virtualtour" style="position: fixed; top: 85vh; left: 90vw; z-index: 1;"><img class="img-fluid" src="img/virt.png" alt="" height="70vh" width="70vw"></a>
 			
 			<!-- Start feature Area --> 
 			<section class="feature-area pb-10" id="feature" style="background: -webkit-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -moz-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%); background: -ms-linear-gradient(0deg,  #62bdfc 0%,  #8490ff 100%);">
@@ -100,7 +101,7 @@
 					<center><div class="row">
 						<div class="single-feature col-lg-3 col-xs-1 ani1 animated " >
 						 	<img class="img-fluid" src="img/college.png" alt="">
-							<h4>Best Deemed to be University <br> in Tamil Nadu</h4>
+							<h4>One of the Best Deemed to be University <br> in Tamil Nadu</h4>
 						</div>
 						<div class="single-feature col-lg-2 col-xs-1 ani1 animated ">
 							<img class="img-fluid" src="img/goal.png" alt="">
@@ -108,7 +109,7 @@
 						</div>
 						<div class="single-feature col-lg-2 col-xs-1 ani2 animated ">
 							<img class="img-fluid" src="img/2019.png" alt="">
-							<h4>Top Ranked Institution in India</h4>
+							<h4>Ranked among top 100 Institutions in India</h4>
 						</div>		
 						<div class="single-feature col-lg-3 col-xs-1 ani3 animated ">
 							<img class="img-fluid" src="img/tree.png" alt="">
@@ -162,7 +163,7 @@
 						</div>
 						<div class="single-feature col-lg-3 col-xs-1 ani1 animated">
 							<img class="" src="img/naac.png" height="75px" width="75px" alt="">
-							<h4><br>NAAC Accreditted</h4>
+							<h4>NAAC<br> Accreditted</h4>
 						</div>
 						<div class="single-feature col-lg-3 col-xs-1 ani2 animated">
 							<img class="img-fluid" src="img/rank1.png" alt="">
@@ -480,6 +481,21 @@
 			<footer class="footer-area pb-40" style="color: #007bff;">
 				<div class="container">
 					<div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
+
+						<ul class="list list-icons">
+							<h4 style="color: #fff;">Contact Us :</h4>&nbsp;&nbsp;&nbsp;&nbsp;
+                                       <i class="fa fa-phone"></i>+91 4222614300&nbsp;&nbsp;
+                                       <i class="fa fa-phone"></i>+91 4222363636&nbsp;&nbsp;
+                                       <i class="fa fa-phone"></i>1800 425 4300 (Toll Free)&nbsp;&nbsp;
+                                       <i class="fa fa-fax"></i> +91 422 2615615&nbsp;&nbsp;
+                                       <i class="fa fa-envelope"></i> <a href="mailto:info@karunya.edu">info@karunya.edu</a>&nbsp;&nbsp;<br><br>
+                                       <h4 style="color: #fff;">Address:</h4>&nbsp;&nbsp;&nbsp;&nbsp;
+                                       </i> Karunya Institute of Technology and Sciences,
+                                    (Deemed to be University),
+                                   Karunya Nagar,
+                                   Coimbatore - 641 114,
+                                   Tamil Nadu, India 	<br><br>	
+                                    </ul>
 						
             <p class="footer-text m-0" style="color: #fff;"><a href="privacy.html" target="_blank" class="mr-15">Privacy Policy</a>Copyright &copy;<script>document.write(new Date().getFullYear());</script> . Karunya Institute of Technology and Sciences. All Rights Reserved.</p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -607,18 +623,17 @@
 			 document.body.appendChild(s);
 			</script>
 			<script type="text/javascript">
-								window.__lc = window.__lc || {};
-								window.__lc.license = 9650825;
-								(function() {
-								  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-								  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-								  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-								})();
-								</script>
-								<noscript>
-								<a href="https://www.livechatinc.com/chat-with/9650825/" rel="nofollow">Chat with us</a>,
-								powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-								</noscript>
+			window.__lc = window.__lc || {};
+			window.__lc.license = 9650825;
+			(function() {
+			var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+			lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+			})();
+			</script>
+			<noscript>
+			<a href="https://www.livechatinc.com/chat-with/9650825/" rel="nofollow">Chat with us</a>,powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+			</noscript>
 											
 		</body>
 	</html>

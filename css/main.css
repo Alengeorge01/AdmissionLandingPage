@@ -2393,3 +2393,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 	height: 100px;
 	width: 100px;
 }
+
+#vir{
+    position: fixed; 
+    top: 85vh; 
+    left: 92vw; 
+    z-index: 1;
+}
+
+.vr{
+    height: 60px;
+    widows: 60px;
+}
