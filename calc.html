@@ -1,0 +1,125 @@
+<div class="container-fluid">
+    <div class="row">
+        <!-- Left Side -->
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12" style="background-color: rgb(244, 244, 244); min-height: 50vh;">
+                    <div class="container">
+                        <h1 class="calculator_title">Calculate your sample size</h1>
+                        <div class="row" style="margin-top: 5vh;">
+                            <div class="col-md-12 col-lg-4">
+                                <div class="calculator_input_section">
+                                    <h4 class="calculator_input_sub_title">Population Size</h4>
+                                    <input type="number" placeholder="Population Size"
+                                        class="form-control calculator_textbox" [(ngModel)]="populationSize" min="1"
+                                        (input)="calculateResult()">
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-lg-4">
+                                <div class="calculator_input_section">
+                                    <h4 class="calculator_input_sub_title">Confidence Level (%)</h4>
+
+                                    <div class="calculator_select" ngbDropdown>
+                                        <div class="form-control calculator_textbox" ngbDropdownToggle>
+                                            <span>{{confidenceValue}}</span>
+                                        </div>
+                                        <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+                                            <span class="calculator_option" ngbDropdownItem
+                                                (click)="setConfidenceValue(80)">80</span>
+                                            <span class="calculator_option" ngbDropdownItem
+                                                (click)="setConfidenceValue(85)">85</span>
+                                            <span class="calculator_option" ngbDropdownItem
+                                                (click)="setConfidenceValue(90)">90</span>
+                                            <span class="calculator_option" ngbDropdownItem
+                                                (click)="setConfidenceValue(95)">95</span>
+                                            <span class="calculator_option" ngbDropdownItem
+                                                (click)="setConfidenceValue(99)">99</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-lg-4">
+                                <div class="calculator_input_section">
+                                    <h4 class="calculator_input_sub_title">Margin of Error (%)</h4>
+                                    <input type="number" placeholder="1 - 100" class="form-control calculator_textbox"
+                                        min="1" max="100" [(ngModel)]="marginOfError" (input)="calculateResult()">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="calculator_error">
+                            <span>{{errorMessage}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="container">
+                        <h1 class="calculator_result_title">Sample Size</h1>
+                        <div class="calculator_result" [ngClass]="{calculated_result: result > 0}"><span
+                                *ngIf="preResult &lt; 1 && preResult > 0">
+                                &lt;</span>{{result}}</div>
+                        <div class="calculate_button">
+                            <button type="button " class="action_button_color btn" style="padding: 6px;"
+                                *ngIf="result > 0">
+                                Create a Survey
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 calculator_right_container" style="padding: 0px;">
+            <div class="calculator_details">
+                <div class="details_container">
+                    <div class="calculator_details_title" style="text-align: center;">
+                        How many people need to take your survey?
+                    </div>
+                    <div class="details_title">
+                        Wanna know how to measure it?
+                    </div>
+
+                    <div class="details_paragraph">
+                        Our Sample Size Calculator is here to help. It helps you to find and decide how many people you
+                        need to interview to get results that will represent the target population as accurately as
+                        possible.
+                        <br><br>
+                        Here's what you need to know about ensuring the survey's correct number of interviews /
+                        responses /
+                        sample size.
+                    </div>
+
+                    <div class="details_title">
+                        Why sample size?
+                    </div>
+                    <div class="details_paragraph">
+                        Surveying a large group of people is not feasible and very expensive. To solve the problem of
+                        inferring the whole population we use sampling. The accurate size of sample can be used to
+                        represent the whole group.
+                    </div>
+
+                    <div class="details_title">
+                        Key terms:
+                    </div>
+
+                    <div class="details_paragraph">
+                        <span class="details_sub_title">Population size:</span>
+                        Total number of people in the population you are researching. If you survey
+                        your organization, population size is the total number of employees.
+                    </div>
+                    <div class="details_paragraph">
+                        <span class="details_sub_title">Margin of error:</span>
+                        A percentage that tells you how much you would expect your survey results to
+                        represent overall population views. The lower the margin of error, better the confidence.
+                    </div>
+                    <div class="details_paragraph">
+                        <span class="details_sub_title">Confidence level:</span>
+                        A percentage that indicates how sure you can be that a certain amount of the
+                        population will select a answer. A 95 % confidence level, for example , means that the outcomes
+                        between x and y are 95% certain.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
